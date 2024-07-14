@@ -1,2 +1,2 @@
 block diagram
-![Alt text](block_diagram.png)
+![Alt text](block_diagram.jpg)
