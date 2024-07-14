@@ -40,4 +40,6 @@
 
 
 Блок схема кода:
+
+
 ![Alt text](block_diagram.jpg)
